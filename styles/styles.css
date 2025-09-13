@@ -15,11 +15,17 @@ aside {
 aside img {
   width: 200px;
   height: auto;
+  border: 2px solid #ccc;
+  padding: 5px;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);
 }
 
 main img {
-  width: 150px;
+  width: 200px;
   height: auto;
+  border: 2px solid #ccc;
+  padding: 5px;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);
 }
 
 p {
@@ -48,12 +54,3 @@ nav a {
 h1 {
   color: #2c3e50;
 }
-
-img {
-  width: 200px;
-  height: auto;
-  border: 2px solid #ccc;
-  padding: 5px;
-  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);
-}
-
